@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/officialrahulmandal/ChatApp#readme",
   "dependencies": {
+    "express": "^4.16.3",
     "loadash": "^1.0.0"
   }
 }
