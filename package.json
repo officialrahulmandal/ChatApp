@@ -1,0 +1,22 @@
+{
+  "name": "chatapp",
+  "version": "1.0.0",
+  "description": "a simple chatapp made using nodejs and socket.io",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/officialrahulmandal/ChatApp.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/officialrahulmandal/ChatApp/issues"
+  },
+  "homepage": "https://github.com/officialrahulmandal/ChatApp#readme",
+  "dependencies": {
+    "loadash": "^1.0.0"
+  }
+}
